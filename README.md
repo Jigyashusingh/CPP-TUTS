@@ -20,3 +20,6 @@ Code Explanation
 The code utilizes vectors (std::vector) for dynamic arrays and pairs (std::pair) for storing pairs of integers.
 It demonstrates various vector operations such as initialization, copying, pushing back elements, and iterating through elements.
 Basic input/output operations (std::cin and std::cout) are used for user input and displaying results.
+Acknowledgments
+
+If applicable, thank individuals or organizations that have contributed to the project or inspired its creation.
