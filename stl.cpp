@@ -59,8 +59,18 @@ int main(){
     // cout<<v.capacity();
 
 
+    // list<int>l;
+    
+    // l.push_back(2);
+    // l.push_back(4);
+    // l.emplace_front(3);
+    // for(auto i:l){
+    //     cout<<i<<endl;
+    // }
 
+    // stack<int>s;
+    // s.push(2);
+    // s.pop(2);
 
-    cout<<"hello";git remote add origin <repository_URL>
 
 } 
