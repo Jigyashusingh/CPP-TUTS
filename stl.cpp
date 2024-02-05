@@ -37,7 +37,7 @@ int main(){
     // int sum=0;
     // cout<<"enter the size of the array";
     // cin>>n;
-    // cout<<"enter the elements of an aray";
+    // cout<<"enter the elements of an array";
     // for(int i=0;i<n;i++){
     //     int temp;
     //     cin>>temp;
@@ -71,6 +71,47 @@ int main(){
     // stack<int>s;
     // s.push(2);
     // s.pop(2);
+
+    //   for(;!s.empty();){
+    //       cout<<s.top()<<endl;
+    //       s.pop();
+    //   }
+      
+    //   while((!s.empty())){
+    //       cout<<s.top();
+    //       s.pop();
+          
+    //   }
+
+  
+    // priority_queue<int>pt;               ///maximum heap
+    // pt.push(3);
+    // pt.push(5);
+    // pt.push(2);
+  
+    // while(!pt.empty()){
+    //     cout<<pt.top()<<endl;
+    //     pt.pop();
+    // }
+
+    //   priority_queue<int ,vector<int>,greater<int>>pqh;
+    
+    //   pqh.push(10);
+    //   pqh.push(4);
+    //   pqh.push(45);
+    //   pqh.push(1);
+    
+    //   while(!pqh.empty()){
+    //       cout<<pqh.top()<<endl;
+    //       pqh.pop();
+    //   }
+
+    
+
+
+
+
+    
 
 
 } 
