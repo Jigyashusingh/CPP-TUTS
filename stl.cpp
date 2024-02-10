@@ -143,11 +143,15 @@ int main(){
     //     do{
     //         cout<<s<<endl;
     //     }
-    //     while(next_permutation(s.begin(),s.end()));
-        
+    //     while(next_permutation(s.begin(),s.end()));   
+    // }
+    // for (; next_permutation(s.begin(), s.end()); ) {
+    //     cout << s << endl;
     // }
     
-        
+    // int a[] = {1, 5, 3, 2, 4}; // Example array
+    // int n = sizeof(a) / sizeof(a[0]); // Calculate the size of the array
+    // int maxi = *max_element(a, a + n);
 
 
 } 
