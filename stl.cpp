@@ -106,6 +106,20 @@ int main(){
     //       pqh.pop();
     //   }
 
+    // map<int , int >mp1;
+    // map<pair<int , int>,int >mp2;
+    // map<int ,pair<int , int>>mp3;
+    
+    // mp1.insert({3,2});
+    // mp1.insert({5,3});
+    
+    // cout<<mp1[3]<<endl;
+    
+    
+    // for(auto i : mp1){
+    //     cout<<i.first<<" "<<i.second<<endl;
+    // }
+
  
     
 
