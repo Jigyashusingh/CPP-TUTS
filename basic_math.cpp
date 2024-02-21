@@ -33,3 +33,17 @@
     //     else{
     //         cout<<"false";
     //     }
+    
+    // bool checkArmstrong(int n){
+    // 	int m=n;
+    // 	int num=0;
+    // 	int digit=log10(n)+1;
+    // 	while(n!=0){
+    // 		int l=n%10;
+    // 		num=pow(l,digit)+num;
+    // 		n/=10;
+    // 	}
+    // 	return num==m;
+    	
+    // }
+
