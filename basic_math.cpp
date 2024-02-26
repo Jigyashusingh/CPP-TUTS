@@ -80,3 +80,26 @@
         
     // }
 
+    // void highestcommonfactor(int n,int m){
+    //     int gcd;
+    //     if(n>m){
+    //     for(int i=min(n-m,m);i>=1;i--){
+    //     if(n%i==0 && m%i==0){
+    //          cout<<i;
+    //          break;
+    //     }
+        
+    //     }
+        
+    // }
+    // else{
+    //     for(int i=min(n,m);i>=1;i--){
+    //     if(n%i==0 && m%i==0){
+    //          cout<<i;
+    //          break;
+    //     }
+        
+    //     }
+    
+    // }
+    // }
