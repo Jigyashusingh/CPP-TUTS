@@ -66,4 +66,17 @@
     //     return 0;
     // }
 
+    
+    
+    // void highestcommonfactor(int n,int m){
+    //     int gcd;
+    //     for(int i=min(n,m);i>=1;i--){
+    //     if(n%i==0 && m%i==0){
+    //          cout<<i;
+    //          break;
+    //     }
+        
+    //     }
+        
+    // }
 
