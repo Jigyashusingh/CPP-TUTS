@@ -28,7 +28,7 @@
       // print();
       // }
 
-// Base Condition - a condition that puts the constraint over the recursive calling of a function and helps the recursive fucntion to execute properly 
+// Base Condition - a condition that puts the constraint over the recursive calling of a function and helps the recursive function to execute properly 
       
       // #include<bits/stdc++.h>
       // using namespace std;
@@ -46,4 +46,6 @@
       // }
       // int main(){
       // print();
+
+// Recursion tree - the form of representing the calling of functions in the recursive process
       // }
