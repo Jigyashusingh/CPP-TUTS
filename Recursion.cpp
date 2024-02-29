@@ -49,3 +49,25 @@
 
 // Recursion tree - the form of representing the calling of functions in the recursive process
       // }
+
+
+      
+      // #define nl cout<<endl;
+      
+      // void print(int i,int n){
+          
+      //     if(i>n){
+      //         return;
+      //     }
+      //     else{ 
+      //         cout<<"jigs don";nl
+      //         print(i+1,n);
+      //     }
+      
+      // }
+      
+      // int main(){
+      //     int n;
+      //     cin>>n;
+      // print(1,n);
+      // }
