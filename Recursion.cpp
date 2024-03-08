@@ -93,3 +93,7 @@
       //     cin>>n;
       // print(1,n);
       // }
+
+
+// sum of n numbers
+//parameterized way -
