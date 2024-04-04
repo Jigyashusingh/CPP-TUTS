@@ -140,3 +140,24 @@
             
       //       }
 
+      
+      // #include<bits/stdc++.h>
+      // using namespace std;
+            
+      // int Factorial(int n,int fact){
+      //     if(n<1)
+      //     {
+      //         return fact;
+      //     }
+      //     else{
+      //         return Factorial(n-1,fact*n);
+      //     }
+         
+      // }
+            
+      //  int main(){
+      //         int n;
+      //         cin>>n;
+      //         cout<<Factorial(n,1);
+            
+      //       }
